@@ -1,0 +1,230 @@
+#EXTM3U
+#EXTINF:0,AKARAM TV
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF:0,AKARAM KIDS
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:0,AKARAN MIX
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
+#EXTINF:0,AKARAM GALATA
+http://akaram.zecast.net/akaram-live/akaramgalatta1/playlist.m3u8
+#EXTINF:0,DAN TAMIL OLI
+http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
+#EXTINF:0,DAN NEWS
+http://askmedia.livebox.co.in/DANNewshls/dannews.m3u8
+#EXTINF:0,DAN MUSIC
+http://askmedia.livebox.co.in/DANMusichls/danmusic.m3u8
+#EXTINF:0,KALVI TV
+http://askmedia.livebox.co.in/KalviTV1hls/kalvitv1.m3u8
+#EXTINF:0,TAMILAN24
+http://45.79.203.234:1935/tamilan24/myStream/playlist.m3u8
+#EXTINF:0,EEETV
+http://live.streamjo.com:1935/eetlive/engadatv/playlist.m3u8
+#EXTINF:0,PAGALAVAN TV
+http://162.244.80.206:1935/live/pakalavantv/playlist.m3u8
+#EXTINF:0,STS TAMIL TV
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/playlist.m3u8
+#EXTINF:0,DEEPAM TV UK
+http://88.202.186.202:1935/cdn/deepamtvuk/playlist.m3u8
+#EXTINF:0,TAMIL BUSINESS TV
+http://rtmp.santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
+#EXTINF:0,ANALI EXPRESS
+http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
+#EXTINF:0,MALAIMURASU
+http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
+#EXTINF:0,VENDHAR NEWS
+http://45.79.203.234:1935/vendharnews/myStream/playlist.m3u8
+#EXTINF:0,NEWS18 TAMILNADU
+http://tamil-news18.akamaized.net/i/tamil_news18_hls_1@526595/index_3_av-p.m3u8
+#EXTINF:0,POLIMER NEWS
+http://vidcdn.vidgyor.com/polimernews-origin/liveabr/polimernews-origin/live3/chunks.m3u8
+#EXTINF:0,THANTHI TV
+http://thanthitv.live-s.cdn.bitgravity.com/cdn-live/_definst_/thanthitv/live/thanthitv.smil/playlist.m3u8
+#EXTINF:0,LOTUS NEWS
+http://61.16.133.101:1935/live/stream/playlist.m3u8
+#EXTINF:0,MATHIMUGAM TV
+http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/playlist.m3u8
+#EXTINF:0,SEITHIGAL
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/playlist.m3u8
+#EXTINF:0,MEENAKSHI TV
+http://psalmtv.livebox.co.in/meenakshitvhls/live.m3u8
+#EXTINF:0,ISAIARUVI
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/chunklist_w1413381276.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNyA0OjE2OjMwIEFNJmhhc2hfdmFsdWU9UitYNEdUK1pDSWF0T2kwUmEzUGU1QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0,SANGAMAM TV
+http://103.88.77.49:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:0,WIN TV
+http://45.79.203.234:1935/win/myStream/playlist.m3u8
+#EXTINF:0,TAMILAN TV EUROPE
+http://live.wmncdn.net/tamilan/live.stream/index.m3u8
+#EXTINF:0,1YES TV
+http://150.242.21.2/oneyes.m3u8
+#EXTINF:0,TUNE 6
+http://live.wmncdn.net/tunes61/live1.stream/playlist.m3u8
+#EXTINF:0,VELICHAM TV
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/chunklist.m3u8
+#EXTINF:0,VASANTH TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:0,MOON TV
+http://67.158.52.23:8081/hls/moonvision.m3u8
+#EXTINF:0,MAKKAL TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0,MINALAYA TV
+http://95.216.146.195/streamouthls/streamin.m3u8
+#EXTINF:0,PEPPERS TV
+http://live.wmncdn.net/peppers/live.stream/index.m3u8
+#EXTINF:0,VANAVIL TV
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:0,VENDHAR TV
+http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
+#EXTINF:0,PODHIGAI TV
+http://abr.wmncdn.net/abr/be6ef04f3770ecb1020e00581f5cb716.m3u8
+#EXTINF:0,VASANTHAM TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0,UTV CBE
+http://185.105.4.244:1935/live/supertv/playlist.m3u8
+#EXTINF:0,UTV ENTERTAINMENT
+http://account12.livebox.co.in/utvhls/live.m3u8
+#EXTINF:0,MGR TV
+http://103.88.77.49:1935/live/mgrtv/playlist.m3u8
+#EXTINF:0,PAALAR TV RANIPETTAI
+http://209.58.178.82/palartvhls/live.m3u8
+#EXTINF:0,TAMIL VISION
+http://tamilvision.livebox.co.in/tamilvisiontvhls/tamilvisiontv.m3u8
+#EXTINF:0,bharathi tv
+http://13.250.185.218/hls/bharathi.m3u8
+#EXTINF:0,MAGA TV
+http://209.58.177.126/magatvhls/magatv.m3u8
+#EXTINF:0,RASI TV
+http://103.88.77.49:1935/rasitv/rasitv/playlist.m3u8
+#EXTINF:0,MICHI TV
+http://account26.livebox.co.in/michitvhls/michitv.m3u8
+#EXTINF:0,MP TV VELLORE
+http://209.58.177.126/mptvhls/mptv.m3u8
+#EXTINF:0,JAYAM TV
+http://209.58.160.82/livehls/stream.m3u8
+#EXTINF:0,SKY TV
+http://209.58.180.57/skytvhls/live.m3u8
+#EXTINF:0,mugiz tv
+http://209.58.180.57/mugizhtvhls/live.m3u8
+#EXTINF:0,SUPERTV DINDUGAL
+http://162.244.80.206:1935/live/supertv/playlist.m3u8
+#EXTINF:0,THAI TV DINDUGAL
+http://185.105.4.244:1935/live/thaitv/playlist.m3u8
+#EXTINF:0,ROYAL TV KRISHNAGIRI
+http://209.58.177.210/royalmediahls/live.m3u8
+#EXTINF:0,ROYAL TV
+http://g2qd3bway7an-hls-live.5centscdn.com/1197/cinthamani/696a6871d8061c62c85cf7075e04f07f.sdp/index.m3u8
+#EXTINF:0,CO TV DINDUGAL
+http://162.244.80.206:1935/live2/cotv/playlist.m3u8
+#EXTINF:0,KTN PLUS NAGAPATINNAM
+http://account11.livebox.co.in/ktnplushls/ktnplus.m3u8
+#EXTINF:0,BOSS TV CHENNAI
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/playlist.m3u8
+#EXTINF:0,SANA TV
+http://account11.livebox.co.in/Sanatvhls/live.m3u8
+#EXTINF:0,7STAR TV
+http://185.105.4.244:1935/live/7star/playlist.m3u8
+#EXTINF:0,JAI TV VELORE
+http://209.58.180.56/qvasanthamhls/qvasantham.m3u8
+#EXTINF:0,AGAM TV VEDHARANIYAM
+http://209.58.160.206/agamtvhls/live.m3u8
+#EXTINF:0,YAZH TV
+http://103.88.77.49:1935/yazhtv/yazhtv/playlist.m3u8
+#EXTINF:0,SHIVAJI TV
+http://livestream.5centscdn.com/cinthamani/8f1baa420361b79fbe05a7f1de905a91.sdp/index.m3u8
+#EXTINF:0,CTN THANJAUR
+http://45.79.203.234:1935/ctntv/myStream/playlist.m3u8
+#EXTINF:0,ITV HD CLASSIC
+http://209.58.177.4/itvhls/live.m3u8
+#EXTINF:0,VIDIYAL TV CHENNAI
+http://209.58.178.208/vidiyaltvhls/vidiyaltv.m3u8
+#EXTINF:0,NANDHANAA TV TITUPUR
+http://103.88.77.49:1935/live/nandhanaatv/playlist.m3u8
+#EXTINF:0,NAKUBETTA CBE
+http://51.254.202.169/nbtvhls/nbtv.m3u8
+#EXTINF:0,RAGAM TV
+http://209.58.164.4/ntvhls/ntv.m3u8
+#EXTINF:0,ROJA TV
+http://91.134.241.131/rojahls/roja.m3u8
+#EXTINF:0,SRI KRISHNA TV ERODE
+http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
+#EXTINF:0,RPLUSHD NAMAKKAL
+http://103.88.77.49:1935/rplustv/rplustv/playlist.m3u8
+#EXTINF:0,JAI TV
+http://103.88.77.49:1935/live/jay/playlist.m3u8
+#EXTINF:0,ABI TV CHENGALPAT
+http://209.58.180.58/abitvpdyhls/abitvpdy.m3u8
+#EXTINF:0,GSTAR TV
+http://209.58.180.138/gstarhls/live.m3u8
+#EXTINF:0,MAYA TV
+http://209.58.180.138/mayatvhls/live.m3u8
+#EXTINF:0,JIN TV
+http://103.88.77.49:1935/live/jintv/playlist.m3u8
+#EXTINF:0,AS MEDIA
+http://103.88.77.49:1935/asmedia/asmedia/playlist.m3u8
+#EXTINF:0,HARI TV KRISHNAGIRI
+http://51.68.174.113/haritvhls/live.m3u8
+#EXTINF:0,KING TV TRICHY
+http://45.79.203.234:1935/maxwell2/myStream/playlist.m3u8
+#EXTINF:0,NTV TRICHY
+http://185.105.4.244:1935/live/ntv/playlist.m3u8
+#EXTINF:0,A1 TRICHY
+http://185.105.4.244:1935/live/a1t/playlist.m3u8
+#EXTINF:0,A1 PERAMBALUR
+http://185.105.4.244:1935/live/a1p/playlist.m3u8
+#EXTINF:0,OSAI TV KARUR
+http://209.58.180.53/osaihls/live.m3u8
+#EXTINF:0,VANAVIL PLUS KARUR
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:0,THIRUMALAI TV KARUR
+http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8
+#EXTINF:0,JAWAHAR TV SALEM
+http://209.58.177.35/jawaharhls/live.m3u8
+#EXTINF:0,JAWAHAR PLUS
+http://209.58.177.35/jawaharplushls/live.m3u8
+#EXTINF:0,JJTV
+http://livestream.5centscdn.com/cinthamani/dca69dd0388dd4bd2224037b684c86c3.sdp/index.m3u8
+#EXTINF:0,PCN TV
+http://209.58.178.86/startvgymhls/live.m3u8
+#EXTINF:0,SHAKTHI TV CHENNAI
+http://stream.mslive.in:1935/shakthitv/gb1051/playlist.m3u8
+#EXTINF:0,SHAKTHI TV PERUNDURAI
+http://103.88.77.49:1935/sakthitv/sakthitv/playlist.m3u8
+#EXTINF:0,NAMTAMILAR
+http://ntktv.cobrasoftwares.in/hls/stream.m3u8
+#EXTINF:0,BAMA TV HD
+http://103.88.77.49:1935/bamahd/bamahd/playlist.m3u8
+#EXTINF:0,SREE TV
+http://103.88.77.49:1935/shreetv/shreetv/playlist.m3u8
+#EXTINF:0,KRISHNA TV MADURAI
+http://rhlj08ib.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/krishnatv.m3u8
+#EXTINF:0,RASI TV
+http://103.88.77.49:1935/rasitv/rasitv/playlist.m3u8
+#EXTINF:0,CSK DHARMAPURI
+http://185.105.4.215:1935/live/csktv/playlist.m3u8
+#EXTINF:0,MP TV VELORE
+http://209.58.177.126/mptvhls/mptv.m3u8
+#EXTINF:0,JAYAM TV
+http://209.58.160.82/livehls/stream.m3u8
+#EXTINF:0,ARAMM TV CBE
+http://209.58.178.86/Arammhls/live.m3u8
+#EXTINF:0,CTN THIRUVARUR
+http://45.79.203.234:1935/ctntv/myStream/playlist.m3u8
+#EXTINF:0,SURYA TV
+http://162.244.80.206:1935/live2/suryatv/playlist.m3u8
+#EXTINF:0,AARYA TV SANKARANKOVIL
+http://account4.livebox.co.in/aaryaatvhls/live.m3u8
+#EXTINF:0,TAMIL NILA
+http://fatv.hopto.org:1936/tamilnila/tamilnila/playlist.m3u8
+#EXTINF:0,SURYA MAX
+http://103.88.77.49:1935/suryamax/suryamax/playlist.m3u8
+#EXTINF:0,MN TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:0,MN TV MUSIC
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:0,RAINBOW NAGARKOVIL
+http://103.88.77.49:1935/sstv/sstv/playlist.m3u8
+#EXTINF:0,SANTHORA TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:0,NETRIGUN TV
+http://45.79.203.234:1935/netrikgunhd/myStream/playlist.m3u8
+
